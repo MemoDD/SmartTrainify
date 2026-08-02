@@ -29,5 +29,12 @@ This project builds upon [SparkyFitness]( https://github.com/CodeWithCJ/SparkyFi
 Thanks to the original authors for their valuable work!
 Used under the Non-Commercial License for educational and personal projects.
 
+## License
+This project contains two types of code:
+- Original contributions by [MemoDD] are licensed under the MIT License.
+- Portions derived from [SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) are licensed under the SparkyFitness Non-Commercial License.
+Please ensure compliance with both licenses when using or distributing this project.
+
+
 
 
