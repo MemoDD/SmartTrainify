@@ -27,5 +27,7 @@ SmartTrainify is an AI-powered fitness trainer that integrates real-time AI assi
  ## Acknowledgments
 This project builds upon [SparkyFitness]( https://github.com/CodeWithCJ/SparkyFitness).  
 Thanks to the original authors for their valuable work!
+Used under the Non-Commercial License for educational and personal projects.
+
 
 
