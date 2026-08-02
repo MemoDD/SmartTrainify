@@ -1,6 +1,5 @@
 # SmartTrainify
 No need to read steps and instructions again and again while working out anymore! Just switch on your camera and your AI Buddy will guide you in real time.
-# SmartTrainify
 
 ## 🚀 Overview
 SmartTrainify is an AI-powered fitness trainer that integrates real-time AI assisting user by taking camera input to give proper suggestions with pro-notes at the end of workout session to elevate user's training. It provides complete user diet routine and plans with a fitness UI to provide real-time posture analysis and workout guidance.
